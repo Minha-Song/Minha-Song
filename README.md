@@ -5,27 +5,33 @@
 <div align="left"> 
     <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 👩‍🔧 PROFILE </h1>  
     <div align="left"> 
-            <span style="font-size:250%"><b>[ 2021.03 ~ ING ]</b>&nbsp;&nbsp;Electrical Bio Engineering (EBE) Department at Hanyang University</span><br>
-            <b>[ 2022.06 ~ ING ]</b>&nbsp&nbsp Electronics Engineering (EE) Department at Hanyang University 
+    </div>
+        <li><b>[ 2021.03 ~ ING ]</b>&nbsp;&nbsp;Electrical Bio Engineering (EBE) Department at Hanyang University</li>
+        <li><b>[ 2022.06 ~ ING ]</b>&nbsp&nbsp Electronics Engineering (EE) Department at Hanyang University </li>
     </div>
 </div>
 <br><br>
 <div align= "left">
-    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">⭐ PROJECT </h1> 
+    <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">⭐ PROJECT </h1> <br>
     <div align= "center">
         <img src="https://github.com/Minha-Song/Minha-Song/assets/114575723/5eadcaba-d908-404b-9c58-33001704044c" height = '250px'>
         <img src="https://github.com/Minha-Song/Minha-Song/assets/114575723/83497be1-41fe-442d-a1e3-00025fec5573" height = '250px'>
         <img src="https://github.com/Minha-Song/Minha-Song/assets/114575723/91b08eff-0341-451c-8eec-93f647f1a5b5" height = '250px'>
-    </div>
+    </div><br><br>
     <div align='left' margin-left='200'>
-       <br><b>[ 2021.12 ~ 2023.09 ]</b>&nbsp&nbsp RACE EV control - Harness Team<br><br>
+       <h2><b>[ 2021.12 ~ 2023.09 ]</b>&nbsp&nbsp RACE EV control - Harness Team</h2>
     </div>
     <div align='left'>
-        &nbsp&nbsp&nbsp&nbsp 🏅 2022 KSAE :: RH29_C _ C-Formula<br>
-        &nbsp&nbsp&nbsp&nbsp 🏎️ 2023 KSAE :: GRIFFIN _ E-Formula
-    </div>
+        <div align='center'>
+            <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 🏅&nbsp&nbsp&nbsp&nbsp 2022 KSAE :: RH29_C _ C-Formula&nbsp&nbsp&nbsp&nbsp & &nbsp&nbsp&nbsp&nbsp🏎️&nbsp&nbsp&nbsp&nbsp 2023 KSAE :: GRIFFIN _ E-Formula</h3>
+        <div><br>
+            <div align='left'>
+        <li><b>Harness</b>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp|&nbsp&nbsp&nbsp&nbsp PCB repair and Automotive Electric Enclosure Design </li>
+    </div><br><br>
     <div align='left' margin-left='200'>
-        <br><b>[ 2023.12 ~ 2024.06 ]</b>&nbsp&nbsp MOIRO AI vision Team
+        <h2><b>[ 2023.12 ~ 2024.06 ]</b>&nbsp&nbsp MOIRO SW Team</h2>
+        <li><b>AI vision</b> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp| &nbsp&nbsp&nbsp&nbspFace recognition, Object Detection, Image Processing</li>
+        <li><b>Robot Control</b> &nbsp&nbsp&nbsp&nbsp| &nbsp&nbsp&nbsp&nbspAGV control algorithm design</li>
     </div>
 <br><br>
 <div align= "left">
